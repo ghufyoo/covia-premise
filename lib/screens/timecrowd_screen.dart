@@ -181,6 +181,7 @@ class _Timecrowd_ScreenState extends State<Timecrowd_Screen> {
                   durationSeconds: int.parse(secondController.text) ,
                   crowdLimit: int.parse(crowdController.text) ,
                   storeemail: widget.storeemail);
+
               await FirestoreController.instance
                   .setLimit(setLimit)
                   .then((value) {

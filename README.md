@@ -1,16 +1,16 @@
-# coviapremise
+# COVIA
 
-A new Flutter project.
+The MySejahtera MockUp built using flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![](/assets/1.svg)
+![](/assets/2.svg)
+![](/assets/3.svg)
+![](/assets/4.svg)
+![](/assets/5.svg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#Covia For Premises
+- [Check Out the Premises app](https://github.com/ghufyoo/covia-premise)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
